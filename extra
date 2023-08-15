@@ -1,0 +1,9 @@
+#include<bits/stdc++.h>
+#include<stack>
+using namespace std;
+int main(){
+    queue<int>q;
+    q.push(3);
+    q.push(6);
+    q.push(9);
+}
